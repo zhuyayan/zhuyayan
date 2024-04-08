@@ -1,11 +1,11 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm ZhuYayan 👋
 
-- 🔭 I’m currently working on [Your Company or Project]
+- 🔭 I’m currently working on MCT
 - 🌱 I’m currently learning [What You're Learning]
 - 👯 I’m looking to collaborate on [Types of Projects or Technologies]
 - 🤔 I’m looking for help with [Project or Technology]
 - 💬 Ask me about [Subjects or Technologies]
-- 📫 How to reach me: [Email or Social Media Links]
+- 📫 How to reach me: zyyepdc@gmail.com
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact About You]
 
